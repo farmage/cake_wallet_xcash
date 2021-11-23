@@ -1,8 +1,14 @@
-# CakeWallet for Android and iOS
+# X-CASH CakeWallet for Android and iOS
 
-## Open Source Monero and Bitcoin Wallet
+## Open Source x-cash WALLET
 
 
-More instructions to follow
+Sorry guys, it's still in pre Alpha stage
+Stay tuned!
 
-For instructions on how to build for Android: please view file `howto-build-android.md`
+Here is some proof of concept
+
+
+
+https://user-images.githubusercontent.com/82975149/143084042-924b9f41-90f5-410f-93ab-dfee77d2a3c4.mp4
+
